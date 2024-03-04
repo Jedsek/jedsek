@@ -3,7 +3,7 @@
 </h3> </div>
 
 <div align="center">
-    <img alt="" src="./touhou_project.jpg" style="margin: 0 auto;" width="70%"/>
+    <img alt="" src="./touhou_project.jpg" style="margin: 0 auto;" width="90%"/>
 </div>
 
 This is **Jedsek**  
