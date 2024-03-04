@@ -1,4 +1,10 @@
-<div align="center"> <h1>Hello, world!</h1> </div>
+<div align="center"> <h3 style="">
+  Hello, world!
+</h3> </div>
+
+<div align="center">
+    <img alt="" src="./touhou_project.jpg" style="margin: 0 auto;" width="70%"/>
+</div>
 
 This is **Jedsek**  
 Welcome to view my blog: [Jedsek's blog](https://jedsek.xyz)
