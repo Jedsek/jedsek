@@ -1,14 +1,21 @@
 - - -
 
-This is **Jedsek**.  
-My most commonly used programming language is `Rust`.  
-Welcome to view my blog: [Jedsek's blog](https://jedsek.xyz)
+## Who am I?
+
+This is **Jedsek**, a high school student from China, who was imprisoned by nihilism and now is looking for the meaning of life.  
+
+> "All gods are dead: now we want the overman to live."  
+> — Friedrich Nietzsche, *Thus Spoke Zarathustra*, Part 1, "Of the Old and New Law-Tables"  
+
+Fight for your dreams, kill the fears that hold you back, and then just keep pushing forward.  
 
 - - -
 
-<div align="center">
-    <img alt="" src="./touhou_project.jpg" style="margin: 0 auto;" width="90%"/>
-</div>
+## My interests:
+
+- Programming languages: rust, c, lisp/scheme, haskell, scala  
+- Package managers: nix(Nixos), guix(GuixOS), xbps(VoldLinux), pacman(ArchLinux)
+- Games: galgame, galgame, galgame! && some 2d games(Hollow Knight, Katana ZERO...)
 
 - - -
 
@@ -16,5 +23,5 @@ Welcome to view my blog: [Jedsek's blog](https://jedsek.xyz)
 
 - - -
 
-QQ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : &nbsp;&nbsp; 2948804617  
-Email &ensp;: &nbsp;&nbsp; jedsek@qq.com
+QQ: 2948804617  
+Email: jedsek@qq.com
