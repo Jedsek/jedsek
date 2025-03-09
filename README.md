@@ -11,10 +11,10 @@ Fight for your dreams, kill the fears that hold you back, and then just keep pus
 
 - - -
 
-## My interests:
+## My loves:
 
 - Programming languages: rust, c, lisp/scheme, haskell, scala  
-- Package managers: nix(Nixos), guix(GuixOS), xbps(VoldLinux), pacman(ArchLinux)
+- Package managers: nix(Nixos), guix(GuixOS), xbps(VoldLinux), pacman(Arch Linux), xbps(Void Linux)
 - Games: galgame, galgame, galgame! && some 2d games(Hollow Knight, Katana ZERO...)
 
 - - -
