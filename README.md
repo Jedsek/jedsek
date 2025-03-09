@@ -22,6 +22,6 @@ Fight for your dreams, kill the fears that hold you back, and then just keep pus
 ![Jedsek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jedsek&show_icons=true&theme=radical)
 
 - - -
-
-QQ: 2948804617  
-Email: jedsek@qq.com
+blog: https://jedsek.xyz
+qq: 2948804617  
+email: jedsek@qq.com
