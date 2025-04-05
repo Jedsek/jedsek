@@ -7,7 +7,11 @@ This is **Jedsek**, a high school student from China, who was imprisoned by nihi
 > "All gods are dead: now we want the overman to live."  
 > — Friedrich Nietzsche, *Thus Spoke Zarathustra*, Part 1, "Of the Old and New Law-Tables"  
 
-Fight for your dreams, kill the fears that hold you back, and then just keep pushing forward.  
+Someone is fighting for dreams, slaying the fears that hold them back, and then just keeping pushing forward-step by steps.  
+
+So, about you...
+Why can't that someone be you？
+**Why can't me?**
 
 - - -
 
