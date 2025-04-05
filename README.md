@@ -9,9 +9,9 @@ This is **Jedsek**, a high school student from China, who was imprisoned by nihi
 
 Someone is fighting for dreams, slaying the fears that hold them back, and then just keeping pushing forward-step by steps.  
 
-So, about you...
-Why can't that someone be you？
-**Why can't me?**
+So, about you...  
+Why can't that someone be you?  
+**Why can't me?**  
 
 - - -
 
