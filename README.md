@@ -32,5 +32,5 @@ blog: https://jedsek.xyz
 email: jedsek@qq.com  
 
 oops, my blog is being rewritten, please stayed turned:  
-[](https://github.com/jedsek/ferlory)  
+[https://github.com/jedsek/ferlory)](https://github.com/jedsek/ferlory)  
 ![ferlory](https://github.com/Jedsek/ferlora/raw/main/screenshots/dev_1.webp)  
