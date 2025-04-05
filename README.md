@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-This is **Jedsek**, a high school student from China, who was imprisoned by nihilism and now is looking for the meaning of life.  
+This is **Jedsek**, a high school student from China, who recognizes the nihilism and meaninglessness of the world, yet still craves that beauty, and thus seeks the gentle spark, moving forward endlessly within their own misguided emptiness.  
 
 > "All gods are dead: now we want the overman to live."  
 > — Friedrich Nietzsche, *Thus Spoke Zarathustra*, Part 1, "Of the Old and New Law-Tables"  
@@ -18,15 +18,17 @@ Why can't that someone be you?
 ## My loves:
 
 - Programming languages: rust, c, lisp/scheme, haskell, scala  
-- Package managers: nix(Nixos), guix(GuixOS), xbps(VoldLinux), pacman(Arch Linux), xbps(Void Linux)
+- Package managers: nix(nixos), guix(guix-os), xbps(vold-linux), pacman(arch-linux)
 - Games: galgame, galgame, galgame! && some 2d games(Hollow Knight, Katana ZERO...)
 
 - - -
 
-![Jedsek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jedsek&show_icons=true&theme=radical)
+![Jedsek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jedsek&show_icons=true&theme=radical)  
 
 - - -
 
 qq: 2948804617  
 blog: https://jedsek.xyz  
-email: jedsek@qq.com
+email: jedsek@qq.com  
+
+oops, my blog is being rewritten, please stayed turned: ![ferlory](https://github.com/Jedsek/ferlora/raw/main/screenshots/dev_1.webp)  
