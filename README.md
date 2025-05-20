@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-This is **Jedsek**, a high school student from China, who recognizes the nihilism and meaninglessness of the world, yet still craves that beauty, and thus seeks the gentle spark, moving forward endlessly within their own misguided emptiness.  
+This is **Jedsek**, a high school student from China, who recognizes the meaninglessness of the world, but yet still craves that beauty, and thus seeks the gentle spark, moving forward endlessly within their own misguided emptiness.  
 
 > "All gods are dead: now we want the overman to live."  
 > — Friedrich Nietzsche, *Thus Spoke Zarathustra*, Part 1, "Of the Old and New Law-Tables"  
